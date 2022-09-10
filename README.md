@@ -22,7 +22,8 @@ returned)
 2. Django REST Framework,
 3. MySQL Database/ Postgre (Both are reliable).
 4. Open-API (API Documentation)
-DRF Token Based Authentication system has been implemented.
+
+** DRF Token Based Authentication system has been implemented.**
 
 # Follow Steps
 
